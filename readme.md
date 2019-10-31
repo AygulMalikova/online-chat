@@ -20,7 +20,7 @@ npm start
 
 goto your browser
 
-and visit localhost:5000 and start chatting.
+and visit localhost:3000 and start chatting.
 
 ## Screenshots
 
