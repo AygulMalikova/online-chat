@@ -27,6 +27,8 @@ and visit localhost:5000 and start chatting.
 I have used Kubernetes for mongodb and there is a screenshots with my pods:
 ![alt text](https://github.com/AygulMalikova/online-chat/blob/master/screenshots/pods.png "Kubernetes pods")
 
+Link to docker hub: https://hub.docker.com/r/aygulmalikova/ds_lab9
+
 After I configured everything and get the 1st member in the replication set as primary. There are screenshots of initial state.
  
 ![alt text](https://github.com/AygulMalikova/online-chat/blob/master/screenshots/1.1.png "Mongodb")
