@@ -35,7 +35,7 @@ After I configured everything and get the 1st member in the replication set as p
 ![alt text](https://github.com/AygulMalikova/online-chat/blob/master/screenshots/1.4.png "Mongodb")
 ![alt text](https://github.com/AygulMalikova/online-chat/blob/master/screenshots/1.5.png "Mongodb")
 
-The Screenshot of chat with all 3 working nodes:
+The Screenshot of chat with some messages:
 ![alt text](https://github.com/AygulMalikova/online-chat/blob/master/screenshots/1.chat.png "Mongodb")
 
 To be sure that everything works correctly let's see the database
